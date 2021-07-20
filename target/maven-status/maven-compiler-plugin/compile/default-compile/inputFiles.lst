@@ -1,0 +1,11 @@
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\entities\Fornecedor.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\controllers\FornecedoresController.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\interfaces\IFornecedorRepository.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\interfaces\IProdutoRepository.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\enuns\Categoria.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\config\JpaConfiguration.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\config\SwaggerConfiguration.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\ProjetoSpringApi01Application.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\controllers\ProdutosController.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\entities\Produto.java
+C:\Users\noite\eclipse-workspace\projetoSpringApi01\src\main\java\br\com\cotiinformatica\dtos\FornecedorPostDTO.java

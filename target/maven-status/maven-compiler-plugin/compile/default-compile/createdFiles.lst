@@ -1,0 +1,11 @@
+br\com\cotiinformatica\enuns\Categoria.class
+br\com\cotiinformatica\interfaces\IFornecedorRepository.class
+br\com\cotiinformatica\interfaces\IProdutoRepository.class
+br\com\cotiinformatica\config\JpaConfiguration.class
+br\com\cotiinformatica\entities\Fornecedor.class
+br\com\cotiinformatica\controllers\FornecedoresController.class
+br\com\cotiinformatica\controllers\ProdutosController.class
+br\com\cotiinformatica\entities\Produto.class
+br\com\cotiinformatica\dtos\FornecedorPostDTO.class
+br\com\cotiinformatica\config\SwaggerConfiguration.class
+br\com\cotiinformatica\ProjetoSpringApi01Application.class
